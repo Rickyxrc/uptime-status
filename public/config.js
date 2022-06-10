@@ -31,7 +31,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.xrcxjcw.xyz/'
+      url: 'https://xrcxjcw.xyz/'
     }
   ]
 };
