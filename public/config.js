@@ -30,8 +30,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://xrcxjcw.xyz/'
+      text: '个人主页',
+      url: 'https://rickyxrc.top/'
     }
   ]
 };
